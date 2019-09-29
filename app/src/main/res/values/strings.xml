@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Omdb</string>
+    <string name="buscar">Buscar</string>
+    <string name="busca">Busca</string>
+    <string name="ops">Ops</string>
+    <string name="mensagem">Pesquisa não encontrada.</string>
+    <string name="ok">Ok</string>
+    <string name="epsodios">Epsódios</string>
+</resources>
